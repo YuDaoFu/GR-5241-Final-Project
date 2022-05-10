@@ -37,8 +37,6 @@ import sklearn
 import torch
 ```
 
-## Model Build
 
-### Part 1
-- 
+
 
